@@ -1,3 +1,5 @@
+# Tarea 4: IaC con terraform
+
 # Buscamos de forma dinámica la AMI de Windows Server 2022
 data "aws_ami" "windows" {
   most_recent = true
