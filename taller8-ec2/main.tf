@@ -1,4 +1,4 @@
-/*
+
 # Configuracion del proovedor AWS
 provider "aws" {
   region = "us-east-1" # region donde se desplegaran los recursos
@@ -49,4 +49,4 @@ resource "aws_instance" "mi_instancia_2" {
 
 
 }
-*/
+
