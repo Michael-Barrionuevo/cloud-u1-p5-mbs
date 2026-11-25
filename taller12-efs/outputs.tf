@@ -1,4 +1,4 @@
-output "ids_instancias" {
+/*output "ids_instancias" {
   description = "IDs de las instancias creadas"
   value       = aws_instance.mi_instancia_efs[*].id
   
@@ -18,3 +18,4 @@ output "zonas_disponibilidad" {
   description = "Zonas de disponibilidad de las instancias creadas"
   value       = aws_instance.mi_instancia_efs[*].availability_zone
 }
+*/
